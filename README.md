@@ -26,7 +26,7 @@
   <br>
   📚 Currently improving my skills in Automation Testing  
   <br>
-  💬 Ask me anything <a href="https://github.com/YOUR-USERNAME/issues">here</a>  
+  💬 Ask me anything <a href="https://github.com/ahmedabdelhaady/issues">here</a>  
   <br>
   📫 How to reach me: <a href="mailto: ahmedabdelhadyt3600@gmail.com">ahmedabdelhadyt3600@gmail.com</a>
 </p>
