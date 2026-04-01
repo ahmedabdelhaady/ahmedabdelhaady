@@ -37,5 +37,5 @@
 
 <p align="center">
   <a href="mailto: ahmedabdelhadyt3600@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ahmed-abdelhady-hebashy">LinkedIn</a>
 </p>
