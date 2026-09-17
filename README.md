@@ -36,6 +36,6 @@
 <h2 align="center">📫 Connect With Me 📫</h2>
 
 <p align="center">
-  <a href="mailto: ahmedabdelhadyt3600@gmail.com">Email</a> |
+  <a href="mailto: ahmedabdelhady.cvv@gmail.com">Email</a> |
   <a href="https://www.linkedin.com/in/ahmed-abdelhady-hebashy">LinkedIn</a>
 </p>
